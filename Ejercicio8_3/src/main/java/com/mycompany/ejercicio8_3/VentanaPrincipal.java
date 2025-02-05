@@ -84,16 +84,19 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     private void cilindroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cilindroActionPerformed
         VentanaCilindro cilindro = new VentanaCilindro();
         cilindro.setVisible(true);
+        cilindro.setLocationRelativeTo(null);
     }//GEN-LAST:event_cilindroActionPerformed
 
     private void esferaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_esferaActionPerformed
         VentanaEsfera esfera = new VentanaEsfera();
         esfera.setVisible(true);
+        esfera.setLocationRelativeTo(null);
     }//GEN-LAST:event_esferaActionPerformed
 
     private void piramideActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_piramideActionPerformed
         VentanaPiramide piramide = new VentanaPiramide();
         piramide.setVisible(true);
+        piramide.setLocationRelativeTo(null);
     }//GEN-LAST:event_piramideActionPerformed
 
     /**

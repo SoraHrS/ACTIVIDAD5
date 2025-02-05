@@ -7,5 +7,6 @@ public class Ejercicio8_3 {
         miVentanaPrincipal= new VentanaPrincipal();
         miVentanaPrincipal.setVisible(true);
         miVentanaPrincipal.setResizable(false);
+        miVentanaPrincipal.setLocationRelativeTo(null);
     }
 }
