@@ -65,7 +65,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
                 .addComponent(esfera)
                 .addGap(31, 31, 31)
                 .addComponent(piramide)
-                .addContainerGap(19, Short.MAX_VALUE))
+                .addContainerGap(20, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
